@@ -2,18 +2,25 @@
 
 This repository contains code for a publication "Architectural Neural Backdoors from First Principles".
 
-The paper can be found on [arxiv](https://arxiv.org/abs/2402.06957).
+The paper can be found in the [IEEE digital library](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a060/21B7R5Paz60).
 
 In case of questions, do not hestiate to reach out! To cite, please use:
 
 ```bibtex
-@misc{langford2024architectural,
-      title={Architectural Neural Backdoors from First Principles}, 
-      author={Harry Langford and Ilia Shumailov and Yiren Zhao and Robert Mullins and Nicolas Papernot},
-      year={2024},
-      eprint={2402.06957},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@inproceedings{langford2025architectural,
+    author = { Langford, Harry and Shumailov, Ilia and Zhao, Yiren and Mullins, Robert and Papernot, Nicolas },
+    booktitle = { 2025 IEEE Symposium on Security and Privacy (SP) },
+    title = {{A}rchitectural {N}eural {B}ackdoors from {F}irst {P}rinciples},
+    year = {2025},
+    volume = {},
+    ISSN = {2375-1207},
+    pages = {1564-1582},
+    keywords = {adversarial machine learning;backdoors},
+    doi = {10.1109/SP61157.2025.00060},
+    url = {https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00060},
+    publisher = {IEEE Computer Society},
+    address = {Los Alamitos, CA, USA},
+    month = {May}
 }
 ```
 
